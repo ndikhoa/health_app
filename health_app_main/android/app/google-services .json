@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343169331301",
+    "project_id": "flutter-app-4ba28",
+    "storage_bucket": "flutter-app-4ba28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343169331301:android:fb68b042abe1930361168c",
+        "android_client_info": {
+          "package_name": "com.example.health_app_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-P_5d28UEDUpwMlZS3GYLAjaOxWamCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
